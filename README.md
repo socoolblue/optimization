@@ -1,6 +1,5 @@
 # optimization
-Optimization Algorithms
-
+Optimization algorithms for a real-world experimental single batch.
 
 # Code References
 
