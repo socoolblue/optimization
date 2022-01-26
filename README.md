@@ -1,14 +1,14 @@
 # optimization
-Optimization algorithms for a real-world experimental single batch.
+### Optimization algorithms for the real-world applications.
+
+# License
+### This Software was written by prof. K.-S. Sohn, Sejong Univ.
+### This software is released under the MIT License.
 
 # Code References
-
-### This Software was written by prof. K.-S. Sohn, Sejong Univ.
-
 ## - MOBO
 ### Balandat et al.
 ### BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization. (2020)
-
 
 ## - NSGA-II
 ### K. Deb et al. 
