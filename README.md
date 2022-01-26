@@ -1,9 +1,8 @@
 # optimization
 Optimization Algorithms
 
-All rights reseved in prof. K.-S. Sohn, Sejong Univ.
 
-# References
+# Code References
 
 ## - MOBO
 ### Balandat et al.
