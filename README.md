@@ -3,6 +3,8 @@ Optimization algorithms for a real-world experimental single batch.
 
 # Code References
 
+### This Software was written by prof. K.-S. Sohn, Sejong Univ.
+
 ## - MOBO
 ### Balandat et al.
 ### BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization. (2020)
